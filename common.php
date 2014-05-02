@@ -1,7 +1,6 @@
 <?php
 
 require_once 'PopbillFax/PopbillFax.php';
-use Popbill\FaxService;
 
 //파트너 아이디
 $PartnerID = 'TESTER';

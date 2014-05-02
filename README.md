@@ -3,7 +3,7 @@ popbill.fax.example.php
 
 팝빌 팩스 SDK Example for PHP 5
 ####Requirements
-+ php 5.3+
++ php 5.2+
 + curl
 + openssl 1.0.1g+ (don't forget about heartbleed.)
 
